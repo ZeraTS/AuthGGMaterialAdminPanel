@@ -1,2 +1,8 @@
-# AuthGGMaterialAdminPanel
- A new modern take to auth.gg, c# code provided by OldModz95
+Packages used within this project include:
+
+- Costura Fody (packing)
+- Material Design 
+
+---------------------------------------------------------------------------
+
+C# Code Provided by OldModz95
