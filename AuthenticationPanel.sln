@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationPanel", "AuthenticationPanel\AuthenticationPanel.csproj", "{FDAD6AC4-F0EE-4719-AA2F-977A65CB16A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDAD6AC4-F0EE-4719-AA2F-977A65CB16A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAD6AC4-F0EE-4719-AA2F-977A65CB16A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAD6AC4-F0EE-4719-AA2F-977A65CB16A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAD6AC4-F0EE-4719-AA2F-977A65CB16A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D913C9E-DEAD-4174-9426-1AA67DFC2F00}
+	EndGlobalSection
+EndGlobal
